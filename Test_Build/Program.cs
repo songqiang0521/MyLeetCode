@@ -10,7 +10,7 @@ namespace Test_Build
         static void Main(string[] args)
         {
             Console.WriteLine("good");
-            Console.WriteLine("good")
+            Console.WriteLine("good");
 
         }
     }
