@@ -1,0 +1,5 @@
+D:\TEMP\MyLeetCode\RemoveElement_CS\bin\Debug\RemoveElement_CS.exe
+D:\TEMP\MyLeetCode\RemoveElement_CS\bin\Debug\RemoveElement_CS.pdb
+D:\TEMP\MyLeetCode\RemoveElement_CS\obj\Debug\RemoveElement_CS.csprojResolveAssemblyReference.cache
+D:\TEMP\MyLeetCode\RemoveElement_CS\obj\Debug\RemoveElement_CS.exe
+D:\TEMP\MyLeetCode\RemoveElement_CS\obj\Debug\RemoveElement_CS.pdb

@@ -1,0 +1,5 @@
+D:\TEMP\MyLeetCode\UglyNumber_CS\bin\Debug\UglyNumber_CS.exe
+D:\TEMP\MyLeetCode\UglyNumber_CS\bin\Debug\UglyNumber_CS.pdb
+D:\TEMP\MyLeetCode\UglyNumber_CS\obj\Debug\UglyNumber_CS.csprojResolveAssemblyReference.cache
+D:\TEMP\MyLeetCode\UglyNumber_CS\obj\Debug\UglyNumber_CS.exe
+D:\TEMP\MyLeetCode\UglyNumber_CS\obj\Debug\UglyNumber_CS.pdb

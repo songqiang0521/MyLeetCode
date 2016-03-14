@@ -1,0 +1,5 @@
+D:\TEMP\MyLeetCode\MajorityElement\bin\Debug\MajorityElement.exe
+D:\TEMP\MyLeetCode\MajorityElement\bin\Debug\MajorityElement.pdb
+D:\TEMP\MyLeetCode\MajorityElement\obj\Debug\MajorityElement_CS.csprojResolveAssemblyReference.cache
+D:\TEMP\MyLeetCode\MajorityElement\obj\Debug\MajorityElement.exe
+D:\TEMP\MyLeetCode\MajorityElement\obj\Debug\MajorityElement.pdb
