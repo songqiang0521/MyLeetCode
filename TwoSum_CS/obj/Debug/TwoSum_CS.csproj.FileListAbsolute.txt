@@ -3,3 +3,8 @@ D:\TEMP\MyLeetCode\TwoSum_CS\bin\Debug\MyLeetCode.pdb
 D:\TEMP\MyLeetCode\TwoSum_CS\obj\Debug\TwoSum_CS.csprojResolveAssemblyReference.cache
 D:\TEMP\MyLeetCode\TwoSum_CS\obj\Debug\MyLeetCode.exe
 D:\TEMP\MyLeetCode\TwoSum_CS\obj\Debug\MyLeetCode.pdb
+D:\git\MyLeetCode\TwoSum_CS\obj\Debug\MyLeetCode.exe
+D:\git\MyLeetCode\TwoSum_CS\obj\Debug\MyLeetCode.pdb
+D:\git\MyLeetCode\TwoSum_CS\bin\Debug\MyLeetCode.exe
+D:\git\MyLeetCode\TwoSum_CS\bin\Debug\MyLeetCode.pdb
+D:\git\MyLeetCode\TwoSum_CS\obj\Debug\TwoSum_CS.csprojResolveAssemblyReference.cache

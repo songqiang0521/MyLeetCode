@@ -7,6 +7,36 @@ namespace RemoveElement_CS
 {
     class Program
     {
+        public static int RemoveElement2(int[] nums, int val)
+        {
+            int oldCount = 0;
+            Array.Sort(nums);
+            int frontIndex = Array.IndexOf(nums, val);
+            int backIndex = Array.LastIndexOf(nums, val);
+            if (frontIndex == -1 && -1 == backIndex)
+            {
+                return nums.Length;
+            }
+
+            oldCount = frontIndex;
+            int moveCount = 0;
+            backIndex++;
+            while (backIndex < nums.Length)
+            {
+                nums[frontIndex] = nums[backIndex];
+                frontIndex++;
+                backIndex++;
+                moveCount++;
+            }
+            //moveCount--;
+            return oldCount + moveCount;
+
+
+
+        }
+
+
+
         public static int RemoveElement(int[] nums, int val)
         {
             int index = 0;
@@ -24,7 +54,7 @@ namespace RemoveElement_CS
 
         static void Main(string[] args)
         {
-            int nreLength = RemoveElement(new int[] { 1, 2, 3, 4, 5, 6, 7, 3, 2, 4, 5, 6 }, 4);
+            int nreLength = RemoveElement2(new int[] { 1, 2, 3, 4, 5, 6, 7, 3, 2, 4, 5, 6 }, 4);
         }
     }
 }

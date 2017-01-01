@@ -3,3 +3,8 @@ D:\TEMP\MyLeetCode\HappyNumber_CS\bin\Debug\HappyNumber_CS.pdb
 D:\TEMP\MyLeetCode\HappyNumber_CS\obj\Debug\HappyNumber_CS.csprojResolveAssemblyReference.cache
 D:\TEMP\MyLeetCode\HappyNumber_CS\obj\Debug\HappyNumber_CS.exe
 D:\TEMP\MyLeetCode\HappyNumber_CS\obj\Debug\HappyNumber_CS.pdb
+D:\git\MyLeetCode\HappyNumber_CS\bin\Debug\HappyNumber_CS.exe
+D:\git\MyLeetCode\HappyNumber_CS\bin\Debug\HappyNumber_CS.pdb
+D:\git\MyLeetCode\HappyNumber_CS\obj\Debug\HappyNumber_CS.csprojResolveAssemblyReference.cache
+D:\git\MyLeetCode\HappyNumber_CS\obj\Debug\HappyNumber_CS.exe
+D:\git\MyLeetCode\HappyNumber_CS\obj\Debug\HappyNumber_CS.pdb

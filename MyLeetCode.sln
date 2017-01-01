@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwoSum_C", "TwoSum_C\TwoSum_C.vcxproj", "{1A333646-C01C-4909-8646-78AC2851B93E}"
 EndProject
@@ -40,6 +40,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UglyNumber_CS", "UglyNumber_CS\UglyNumber_CS.csproj", "{6E165B52-8B88-43A3-BC61-7828CA0C724C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Build", "Test_Build\Test_Build.csproj", "{1447FB02-80B5-4D4A-AFB9-DE4D49DE31BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers_CS", "AddTwoNumbers_CS\AddTwoNumbers_CS.csproj", "{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumber_CS", "ReverseNumber_CS\ReverseNumber_CS.csproj", "{959BCD0B-DA0D-427F-ACA9-5341D134067E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray", "{60D93AEB-F18F-4899-B7AD-BDEB8874FE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray_CS", "RemoveDuplicatesFromSortedArray_CS\RemoveDuplicatesFromSortedArray_CS.csproj", "{B429F626-C96C-4555-B3D3-DB692D1C702A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +165,42 @@ Global
 		{1447FB02-80B5-4D4A-AFB9-DE4D49DE31BA}.Release|x64.Build.0 = Release|Any CPU
 		{1447FB02-80B5-4D4A-AFB9-DE4D49DE31BA}.Release|x86.ActiveCfg = Release|Any CPU
 		{1447FB02-80B5-4D4A-AFB9-DE4D49DE31BA}.Release|x86.Build.0 = Release|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Debug|x64.Build.0 = Debug|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Debug|x86.Build.0 = Debug|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Release|x64.ActiveCfg = Release|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Release|x64.Build.0 = Release|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Release|x86.ActiveCfg = Release|Any CPU
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E}.Release|x86.Build.0 = Release|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Debug|x64.Build.0 = Debug|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Debug|x86.Build.0 = Debug|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Release|x64.ActiveCfg = Release|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Release|x64.Build.0 = Release|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Release|x86.ActiveCfg = Release|Any CPU
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E}.Release|x86.Build.0 = Release|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Debug|x64.Build.0 = Debug|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Debug|x86.Build.0 = Debug|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Release|x64.ActiveCfg = Release|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Release|x64.Build.0 = Release|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Release|x86.ActiveCfg = Release|Any CPU
+		{B429F626-C96C-4555-B3D3-DB692D1C702A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,46 +214,8 @@ Global
 		{F3FECF0F-F41F-4232-9606-1EACBBBED665} = {706B556F-15CD-476A-931D-EA7177649753}
 		{B825F6E1-7103-43EB-B751-91CF0E435B56} = {07601106-6C0A-4069-9F69-3FE9530A168D}
 		{6E165B52-8B88-43A3-BC61-7828CA0C724C} = {524218AF-ECB4-4829-A14B-24F5F99D78E7}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 10
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://songqiang0521.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = TwoSum_C\\TwoSum_C.vcxproj
-		SccProjectTopLevelParentUniqueName1 = MyLeetCode.sln
-		SccProjectName1 = TwoSum_C
-		SccLocalPath1 = TwoSum_C
-		SccProjectUniqueName2 = TwoSum_CS\\TwoSum_CS.csproj
-		SccProjectTopLevelParentUniqueName2 = MyLeetCode.sln
-		SccProjectName2 = TwoSum_CS
-		SccLocalPath2 = TwoSum_CS
-		SccProjectUniqueName3 = NumberOf1Bits_CS\\NumberOf1Bits_CS.csproj
-		SccProjectTopLevelParentUniqueName3 = MyLeetCode.sln
-		SccProjectName3 = NumberOf1Bits_CS
-		SccLocalPath3 = NumberOf1Bits_CS
-		SccProjectUniqueName4 = RemoveElement_CS\\RemoveElement_CS.csproj
-		SccProjectTopLevelParentUniqueName4 = MyLeetCode.sln
-		SccProjectName4 = RemoveElement_CS
-		SccLocalPath4 = RemoveElement_CS
-		SccProjectUniqueName5 = MajorityElement\\MajorityElement_CS.csproj
-		SccProjectTopLevelParentUniqueName5 = MyLeetCode.sln
-		SccProjectName5 = MajorityElement
-		SccLocalPath5 = MajorityElement
-		SccProjectUniqueName6 = HappyNumber_CS\\HappyNumber_CS.csproj
-		SccProjectTopLevelParentUniqueName6 = MyLeetCode.sln
-		SccProjectName6 = HappyNumber_CS
-		SccLocalPath6 = HappyNumber_CS
-		SccProjectUniqueName7 = ExcelColumn\\ExcelColumn_CS.csproj
-		SccProjectTopLevelParentUniqueName7 = MyLeetCode.sln
-		SccProjectName7 = ExcelColumn
-		SccLocalPath7 = ExcelColumn
-		SccProjectUniqueName8 = UglyNumber_CS\\UglyNumber_CS.csproj
-		SccProjectTopLevelParentUniqueName8 = MyLeetCode.sln
-		SccProjectName8 = UglyNumber_CS
-		SccLocalPath8 = UglyNumber_CS
-		SccProjectUniqueName9 = Test_Build\\Test_Build.csproj
-		SccProjectName9 = Test_Build
-		SccLocalPath9 = Test_Build
+		{345E1EA9-C847-4AB6-ABF5-F8DEEF10D41E} = {52F3A2FB-B023-4F77-90F4-BF8E30A17F52}
+		{959BCD0B-DA0D-427F-ACA9-5341D134067E} = {91A5FF18-27F8-476F-91D3-C2C27EDAE138}
+		{B429F626-C96C-4555-B3D3-DB692D1C702A} = {60D93AEB-F18F-4899-B7AD-BDEB8874FE1F}
 	EndGlobalSection
 EndGlobal

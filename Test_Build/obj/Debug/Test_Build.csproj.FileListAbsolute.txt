@@ -1,1 +1,6 @@
 D:\TEMP\MyLeetCode\Test_Build\obj\Debug\Test_Build.csprojResolveAssemblyReference.cache
+D:\git\MyLeetCode\Test_Build\bin\Debug\Test_Build.exe
+D:\git\MyLeetCode\Test_Build\bin\Debug\Test_Build.pdb
+D:\git\MyLeetCode\Test_Build\obj\Debug\Test_Build.csprojResolveAssemblyReference.cache
+D:\git\MyLeetCode\Test_Build\obj\Debug\Test_Build.exe
+D:\git\MyLeetCode\Test_Build\obj\Debug\Test_Build.pdb
