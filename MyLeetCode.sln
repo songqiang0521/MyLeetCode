@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LongestSubstringWithoutRepe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingCharacters_CS", "LongestSubstringWithoutRepeatingCharacters_CS\LongestSubstringWithoutRepeatingCharacters_CS.csproj", "{DABFA726-1180-4B6A-8421-45192F3FE90D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringToInteger", "StringToInteger", "{D466472E-9E5D-4740-AB93-8E36A8B72A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToInteger_CS", "StringToInteger_CS\StringToInteger_CS.csproj", "{BE6E5668-869C-4988-A15B-31BC77E11106}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -203,6 +207,18 @@ Global
 		{DABFA726-1180-4B6A-8421-45192F3FE90D}.Release|x64.Build.0 = Release|Any CPU
 		{DABFA726-1180-4B6A-8421-45192F3FE90D}.Release|x86.ActiveCfg = Release|Any CPU
 		{DABFA726-1180-4B6A-8421-45192F3FE90D}.Release|x86.Build.0 = Release|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Debug|x64.Build.0 = Debug|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Debug|x86.Build.0 = Debug|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Release|x64.ActiveCfg = Release|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Release|x64.Build.0 = Release|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE6E5668-869C-4988-A15B-31BC77E11106}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -220,5 +236,6 @@ Global
 		{959BCD0B-DA0D-427F-ACA9-5341D134067E} = {91A5FF18-27F8-476F-91D3-C2C27EDAE138}
 		{B429F626-C96C-4555-B3D3-DB692D1C702A} = {60D93AEB-F18F-4899-B7AD-BDEB8874FE1F}
 		{DABFA726-1180-4B6A-8421-45192F3FE90D} = {772F6BBC-E226-48D7-B4C1-E4F8EA2A98C1}
+		{BE6E5668-869C-4988-A15B-31BC77E11106} = {D466472E-9E5D-4740-AB93-8E36A8B72A26}
 	EndGlobalSection
 EndGlobal
