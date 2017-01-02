@@ -8,6 +8,15 @@ namespace NumberOf1Bits_CS
 {
     class Program
     {
+
+        public static int HammingDistance(int x, int y)
+        {
+            uint r = (uint)(x ^ y);
+            int count = NumberOf1Bits(r);
+            return count;
+        }
+
+
         public static int NumberOf1Bits(uint n)
         {
             int count = 0;
