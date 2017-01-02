@@ -4,6 +4,8 @@
 
 *.exe
 *.pdb
+*.db
+*.opendb
 
 
 # User-specific files
