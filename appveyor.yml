@@ -1,12 +1,10 @@
 version: 1.0.{build}
 configuration:
-- Debug
 - Release
 before_build:
 - cmd: nuget restore
 platform:
 - Any CPU
-- x86
 - x64
 build:
   verbosity: normal
